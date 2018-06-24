@@ -1,2 +1,2 @@
 # hello-world
-I fond of doing nothing
+I fond of doing nothing.
